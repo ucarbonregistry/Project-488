@@ -17,7 +17,8 @@ Version 18.0
 
 Standardized Methodology: Not Applicable
 UCR Protocol Standard Baseline EF
-Sectoralscopes 01 Energy industries(Renewable/Non-Renewable
+
+Sectoral scopes 01 Energy industries(Renewable/Non-Renewable
 Sources)
 
 
